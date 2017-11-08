@@ -1,0 +1,9 @@
+Image size 
+
+jpeg quality = 30%
+
+sor-17-fbshare.jpg 1200x630
+interchange/sor-17_L.jpg 1200x480
+interchange/sor-17_M.jpg 1025x410 (används ej)
+interchange/sor-17_S.jpg 640x410
+
