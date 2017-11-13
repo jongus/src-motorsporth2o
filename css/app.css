@@ -1,11 +1,11 @@
 /***********************************
 ************************************
-race.pixotag.com
+motorsporth2o.se
 ************************************
 ***********************************/
- 
+
 /*=====foundation.css modify=======*/
- 
+
 .grid-container {
   padding-right: 0;
   padding-left: 0;
@@ -28,11 +28,11 @@ input[type="text"], select, .button {
 }
 
 label {
-  margin-bottom: -16px;  
+  margin-bottom: -16px;
 }
 
 a {
-  color: #cccccc; 
+  color: #cccccc;
 }
 a:active,
 a:hover {
@@ -68,7 +68,7 @@ a:hover {
 }
 
 .abide-form-error-text {
-  line-height: 110%; 
+  line-height: 110%;
   color: #000000;
 }
 
@@ -82,7 +82,7 @@ a:hover {
   position: absolute;
   bottom: 1.4em;
   color: #f5f7fa;
-  background: rgb(0, 0, 0); 
+  background: rgb(0, 0, 0);
   background: rgba(0, 0, 0, 0.7);
   margin-left: 0.2em;
   padding-left: 0.2em;
@@ -144,34 +144,34 @@ a:hover {
 /*======Mixed formatting=======*/
 
 .text-cell {
-  padding-left: 0.625rem; 
+  padding-left: 0.625rem;
   padding-right: 0.625rem;
 }
 
 
 @media print, screen and (min-width: 40em) {
   .medium-text-cell-right {
-    padding-left: 0.3125rem; 
+    padding-left: 0.3125rem;
   }
   .medium-text-cell-left {
     padding-right: 0.3125rem;
   }
   .medium-text-cell-center {
     padding-right: 0.3125rem;
-    padding-left: 0.3125rem; 
+    padding-left: 0.3125rem;
   }
 }
 
 @media print, screen and (max-width: 40em) {
   .small-text-cell-right {
-    padding-left: 0.3125rem; 
+    padding-left: 0.3125rem;
   }
   .small-text-cell-left {
     padding-right: 0.3125rem;
   }
   .small-text-cell-center {
     padding-right: 0.3125rem;
-    padding-left: 0.3125rem; 
+    padding-left: 0.3125rem;
   }
 }
 
