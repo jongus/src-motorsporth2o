@@ -1,6 +1,6 @@
 Image size 
 
-jpeg quality = 30%
+jpeg quality = 100%
 
 sor-17-fbshare.jpg 1200x630
 interchange/sor-17_L.jpg 1200x480
